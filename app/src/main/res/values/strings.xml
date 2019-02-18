@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">wharehouse</string>
+    <string-array name="gooods">
+
+
+        <item>Rental_Bars_D12</item>
+        <item>Rental_Bars_D10</item>
+        <item>Rental_Bars_D8</item>
+        <item>Rental_Bars_R10</item>
+        <item>Rental_Bars_R8</item>
+        <item>Rental_Bars_R6</item>
+        <item>square_tubes_2*2</item>
+        <item>square_tubes_2*1</item>
+        <item>square_tubes_1.5*1</item>
+        <item>square_tubes_1*1</item>
+        <item>square_tubes_3.75*3.75</item>
+        <item>Flat_bars_1.5</item>
+        <item>Flat_bars_1</item>
+        <item>Flat_bars_0.75</item>
+        <item>ZedBar</item>
+        <item>TeeBar</item>
+        <item>Angleline_1</item>
+        <item>Angleline_1.5</item>
+        <item>Angleline_0.75</item>
+        <item>BlackTubes_2_heavy.gauge</item>
+        <item>BlackTubes_1.5_heavy.gauge</item>
+        <item>BlackTubes_1</item>
+        <item>BlackTubes_0.5</item>
+        <item>ChainLink_6ft</item>
+        <item>ChainLink_7ft</item>
+        <item>ChainLink_5ft</item>
+        <item>wiremesh_H/G</item>
+        <item>wiremesh_M/G</item>
+        <item>Chicken_Net_0.5</item>
+        <item>Chicken_Net_0.75</item>
+        <item>iron_sheets_2m</item>
+        <item>iron_sheets_2.5m</item>
+        <item>iron_sheets_3m</item>
+        <item>RIDGINGS</item>
+        <item>Gathers_Silver</item>
+        <item>Gathers_Coloured</item>
+        <item>Black_Sheet</item>
+        <item>Block_Board</item>
+        <item>MDF_UGANDA</item>
+        <item>MDF-KENYA</item>
+        <item>MDF-CHINA</item>
+        <item>PLYWOOD_KENYA</item>
+        <item>PLYWOOD_UGANDA</item>
+        <item>Flower_Boards</item>
+        <item>polythene paper</item>
+        <item>polythene paper(black)</item>
+        <item>Gauge_wire</item>
+        <item>DPC</item>
+        <item>P.V.C(3)</item>
+        <item>P.V.C(2)</item>
+        <item>P.V.C(1.5)</item>
+        <item>P.V.C(1)</item>
+        <item>P.V.C(3.5)</item>
+        <item>P.V.C(0.5)</item>
+        <item>P.P.R(0.75)</item>
+        <item>P.V.C(0.5)</item>
+        <item>G.I(0.5)</item>
+        <item>Waste</item>
+        <item>Red_Oxide(1kg)</item>
+        <item>Filla(0.5)</item>
+        <item>Filla(2.5)</item>
+        <item>Glout(1kg)</item>
+        <item>Blue_Drums_225l</item>
+        <item>Blue_Drums_235l</item>
+        <item>Blue_Drums_220l</item>
+        <item>Blue_Drums_180l</item>
+        <item>Green_Drums_210l</item>
+
+
+
+
+
+
+
+    </string-array>
+</resources>
